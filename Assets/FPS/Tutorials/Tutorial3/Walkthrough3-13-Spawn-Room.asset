@@ -74,7 +74,7 @@ MonoBehaviour:
 
         Prefab is located in:
 
-        <b>FPS</B> > <b>Prefabs</b> > <b>Level</b> > <b>Rooms</b>'
+        <b>FPS</B> > <b>Prefabs</b> > <b>Level</b> > <b>Level</b>'
       m_TutorialButtonText: 
       m_Tutorial: {fileID: 0}
       m_Icons:

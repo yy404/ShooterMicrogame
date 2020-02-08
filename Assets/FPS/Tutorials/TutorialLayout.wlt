@@ -427,7 +427,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/FPS
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/lemonunicorn/MyFirstGame
+  m_LastProjectPath: C:\Users\yatchi.lau\Downloads\04_1218_fps-1.0.2\fps-1.0.2-preview
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
