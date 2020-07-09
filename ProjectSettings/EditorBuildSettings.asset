@@ -14,7 +14,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/FPS/Scenes/LoseScene.unity
     guid: 72e5c65a45893714484002914e3fd521
-  - enabled: 1
+  - enabled: 0
     path: Assets/FPS/Scenes/MainScene.unity
     guid: d794a2ef8ba31d847ad3c19d03e2ddb9
+  - enabled: 0
+    path: Assets/FPS/Scenes/MyScene-Old.unity
+    guid: 7ad6dd504f6134f0db95915aef7d981e
+  - enabled: 1
+    path: Assets/FPS/Scenes/MySceneEasy.unity
+    guid: 624cc6218681f44e0af11ec2ef61f57a
+  - enabled: 1
+    path: Assets/FPS/Scenes/MySceneHigh.unity
+    guid: 1a22fe44ab5d64bb3bc90d47797842c8
   m_configObjects: {}
